@@ -1,2 +1,5 @@
 # hello-world
-Just an example
+
+Hi, My Name is Jonathan
+
+This is an example for me to practice on.
